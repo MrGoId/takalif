@@ -1,4 +1,18 @@
 we have 2 ways to show the pyramid so im gonna show you the easy one:)
+1 =>
+
+#include <iostream>
+using namespace std;
+int main(){
+    cout << "****\n";
+    cout << "***\n";
+    cout << "**\n";
+    cout << "*";
+    return 0;
+}
+
+2=>
+this is a little harder to undrestand if you are new to coding but it's so easy we just using some loop
 
 #include <iostream>
 using namespace std;
