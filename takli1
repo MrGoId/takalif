@@ -1,0 +1,13 @@
+we have 2 ways to show the pyramid so im gonna show you the easy one:)
+
+#include <iostream>
+using namespace std;
+int main(){
+    for(int A=1 ; A <= 5 ; A++){
+        for(int B=4 ; B >= A ; B--){
+            cout << "*";
+        }
+    cout << "\n";
+    }
+return 0;
+}
